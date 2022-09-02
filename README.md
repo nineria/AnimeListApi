@@ -11,6 +11,6 @@
 - [AnimeListApi](https://raw.githubusercontent.com/Ninelie-Nananai/AnimeListApi/main/AnimeList.csv)
 
 ## Members 🧑‍🔧
-1. 1620703130 พันกร หวังสกุล
-1. 1620705234 เทวฤทธิ์ จันทรศร
-1. 1620707594 ชยุต วรรณะนานนท์
+1. [PANKORN.WANG](https://github.com/pankornsupercool)
+2. [Shinde kudasai ❤〜](https://github.com/nineria)
+3. 1620707594 ชยุต วรรณะนานนท์
